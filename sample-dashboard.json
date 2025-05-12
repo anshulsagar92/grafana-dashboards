@@ -7,7 +7,7 @@
       "type": "text",
       "title": "Welcome",
       "gridPos": { "x": 0, "y": 0, "w": 12, "h": 4 },
-      "options": { "content": "### Hello from Git!", "mode": "markdown" },
+      "options": { "content": "### Updated via GitHub!", "mode": "markdown" },
       "id": 1
     }
   ],
