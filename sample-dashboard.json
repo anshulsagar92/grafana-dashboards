@@ -1,0 +1,17 @@
+{
+  "uid": "git-synced-001",
+  "title": "Git Synced Dashboard",
+  "timezone": "browser",
+  "panels": [
+    {
+      "type": "text",
+      "title": "Welcome",
+      "gridPos": { "x": 0, "y": 0, "w": 12, "h": 4 },
+      "options": { "content": "### Hello from Git!", "mode": "markdown" },
+      "id": 1
+    }
+  ],
+  "schemaVersion": 30,
+  "version": 1,
+  "refresh": "5s"
+}
